@@ -31,4 +31,5 @@ children:
   - /storing-your-secrets-safely
   - /finding-and-fixing-your-first-code-vulnerability
   - /finding-and-fixing-your-first-dependency-vulnerability
+  - /bitcoin-wallet-development-overview
 ---
